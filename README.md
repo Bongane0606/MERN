@@ -84,7 +84,7 @@ Secondary: Sponsored rewards, anonymized data monetization for research and plan
 git clone https://github.com/yourusername/safedrive-rewards.git
 cd safedrive-rewards
 
-2. Open in Browser 
+2. Open in Browser https://bongane0606.github.io/MERN/
 
 Double-click index.html or open via live server in your code editor.
 
